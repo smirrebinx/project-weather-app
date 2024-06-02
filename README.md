@@ -17,8 +17,3 @@ Weather API
 To solve the problem, different resources and tools were used. Previous student projects were reviewed to understand project requirements and design. Stackoverflow, blogs, and ChatGPT were also consulted. An experienced former student assisted with implementing part of the code.
 
 If there had been more time CSS animations would have been added.
-
-
-## View it live
-
-https://project-weather-app-michelle-emma.netlify.app/
